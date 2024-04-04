@@ -2,11 +2,16 @@
 
 Este é o repositório para o projeto FractalPython utilizado para avaliação da disciplina de Computação Gráfica.
 
+## Como rodar a aplicação:
+
+Para rodar a aplicação entre no arquivo **main.py** e descomente as linhas comentadas. É importante que para cada função a ser testada o usuário comente a anterior, evitando problemas de compilação e perfomance. Teste uma função por vez e funcionará perfeitamente. **Importante lembrar de comentar também as importações no arquivo main.py uma vez que essas geram instabilidades junto a biblioteca turtle.**
+
+
 ## Descrição
 
 O repositório tem como objetivo demonstrar implementações básicas sobre o estudo de fractais, utilizando o conjunto de mandelbrot, os triangulos de sierpinski e uma implementação recursiva.
 
-## Vídeos Utilizados para Gerar o Código Fonte Base
+## Referências
 
 Aqui estão os vídeos que foram utilizados como referência para desenvolver o código fonte deste projeto:
 
